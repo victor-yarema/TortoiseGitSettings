@@ -1,4 +1,5 @@
 
+cd "%~dp0"
 regedit /s "00.00.Disabled hints about hierarchical configuration.reg"
 regedit /s "00.01.Disabled status cache.reg"
 regedit /s "00.02.Disabled icons overlays for fixed drives.reg"
